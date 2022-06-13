@@ -4,7 +4,7 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        System.out.println("Hello World!, WELCOME TO DevOps Training"); 
+        System.out.println("Hello World!, WELCOME to Java code files process"); 
         
         int n1 = 100, n2 = 150, sum;  
         sum = n1 + n2;  
